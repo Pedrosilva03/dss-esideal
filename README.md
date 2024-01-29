@@ -28,7 +28,7 @@ O sistema permite:
 
 # Execução do sistema
 Cuidados especiais a ter na execução do sistema:
-- É necessário inicializar e povoar a base de dados (todo o material necessário encontra-se [aqui](https://github.com/Pedrosilva03/dss-esideal/tree/38b93d30b833dc52f30bddba9f18abdcd19f6ea5/src/SQL)
+- É necessário inicializar e povoar a base de dados (todo o material necessário encontra-se [aqui](https://github.com/Pedrosilva03/dss-esideal/tree/38b93d30b833dc52f30bddba9f18abdcd19f6ea5/src/SQL))
 - As credenciais de acesso à base de dados devem ser alterados [aqui](https://github.com/Pedrosilva03/dss-esideal/blob/38b93d30b833dc52f30bddba9f18abdcd19f6ea5/src/esideal/data/ConfigDAO.java) (campos ```USERNAME``` e ```PASSWORD```)
 
 # Conclusão
